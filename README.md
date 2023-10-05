@@ -1,2 +1,4 @@
 # my-first-repo
-practice account for learning Git
+practice learning Git
+
+This is my first experience using Git commands, and I've created this repository to experiment with version control.
