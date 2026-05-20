@@ -1,42 +1,24 @@
 <div align="center">
 
-<pre>
-╔═══════════════════════╗
-║     💻  my-first-repo  💻     ║
-╚═══════════════════════╝
-</pre>
+# My First Repository
 
-## Project Repository
-
-
+*Where it all started — learning Git, GitHub, and version control basics.*
 
 </div>
 
 ---
 
-## About
+This is the repository used to get comfortable with:
 
-practice account for learning Git
+- `git init`, `git clone`, `git add`, `git commit`, `git push`
+- Branching and merging
+- Pull requests and GitHub workflow
+- README markdown syntax
 
----
-
-## Features
-
-- See source code for details
-
----
-
-## Tech Stack
-
-_See source_
+The skills practised here are now used across 40+ projects. Everyone starts somewhere.
 
 ---
 
-## Author
-
-**Ashish (Yami1106)**
-[GitHub](https://github.com/Yami1106) · [Portfolio](https://yamiportfolio.netlify.app/)
-
----
-
-*Generated with [Automate_contribution](https://github.com/Yami1106/Automate_contribution)*
+<div align="center">
+<a href="https://github.com/Yami1106">Ashish Sukumar</a>
+</div>
